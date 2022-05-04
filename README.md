@@ -34,7 +34,7 @@ Here are the things I already know/have perfected :).
 ## Contact me 
 
 ![Discord](https://img.shields.io/badge/tenzin%238951-%237289DA.svg?logo=discord&logoColor=white)
-![Telegram](https://img.shields.io/badge/SiTenzin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/SirTenzin-2CA5E0?logo=telegram&logoColor=white)
 
 ## GitHub Stats
 
