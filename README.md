@@ -32,6 +32,10 @@ Here are the things I already know/have perfected :).
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## Portfolio
+
+Apart from my GitHub, you can view my ongoing/past projects [here](https://tenzin.wtf/portfolio.html)
+
 ## Contact me 
 
 ![Discord](https://img.shields.io/badge/tenzin%238951-%237289DA.svg?logo=discord&logoColor=white)
