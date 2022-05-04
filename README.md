@@ -38,4 +38,5 @@ Here are the things I already know/have perfected :).
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sirtenzin&title_color=B00B69&text_color=B00B69&show_icons=true&icon_color=B00B69&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=sirtenzin&title_color=B00B69&show_icons=true&icon_color=B00B69&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirtenzin&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=B00B69&fire=B00B69&ring=B00B69" alt="GitHub Streak Stats" height="200" />
