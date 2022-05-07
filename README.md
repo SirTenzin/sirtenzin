@@ -1,4 +1,4 @@
-# Hi there 👋, I'm SirTenzin!
+<h1>Hi there 👋, I'm SirTenzin! <img src="https://hits.link/hits?url=https://github.com/SirTenzin"></h1>
 
 I'm SirTenzin. I code many different languages, you can read about them below :O
 
