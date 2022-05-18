@@ -44,6 +44,6 @@ Apart from my GitHub, you can view my ongoing/past projects [here](https://tenzi
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sirtenzin&theme=rout" alt="GitHub Stats" height="200" />
+<img src="https://tenzin-stats.vercel.app/api?username=sirtenzin&theme=rout" alt="GitHub Stats" height="200" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirtenzin&theme-outrun" alt="GitHub Streak Stats" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirtenzin&theme=outrun">
+<img src="https://tenzin-stats.vercel.app/api/top-langs/?username=sirtenzin&theme=outrun">
