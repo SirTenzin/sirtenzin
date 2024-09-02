@@ -8,6 +8,9 @@ I'm amianthus.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sirtenzin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirtenzin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 🛣️ Roadmap Stats:
+[![roadmap.sh](https://roadmap.sh/card/tall/66d5b226553501e3c3afed5d?variant=dark)](https://roadmap.sh)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sirtenzin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
