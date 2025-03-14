@@ -8,7 +8,7 @@ I'm amianthus.
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/sirtenzin/contributions)
 
 # 🛣️ Roadmap Stats:
-[![roadmap.sh](https://roadmap.sh/card/tall/66d5b226553501e3c3afed5d?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66d5b226553501e3c3afed5d?variant=dark)](https://roadmap.sh)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sirtenzin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
