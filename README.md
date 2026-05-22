@@ -2,7 +2,7 @@
 amianthus
 
 # 🤖 Slop Meter:
-<img width="1988" height="841" alt="8oFYcX3ng8p" src="https://github.com/user-attachments/assets/1a510009-18c6-408d-860f-a5e3e3c79382" />
+<img width="2522" height="1058" alt="image" src="https://github.com/user-attachments/assets/4b8bd49c-fc90-4e57-ab74-93ce4e3af79d" />
 
 
 # ⏰ Wakatime Stats:
